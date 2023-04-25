@@ -1,0 +1,139 @@
+------------------------------
+
+ <!DOCTYPE html>
+<html>
+<hear>
+
+     <title> sorido0 </title>
+</hear>
+<body>
+
+   <section>
+     
+
+     <h6>Hola soy Goku </h6>
+     <h2>Hola soy Goku</h2>
+     <h3>Hola soy Goku</h3>
+     <h4>Hola soy GokuHola soy Goku</h4>
+     <h5>Hola soy Goku</h5>
+     <h1>Hola soy Goku</h1>
+     <p>Hola soy Goku</p>
+
+
+    </section> 
+   <!-- Liatas ordenadas -->
+       <h1> Liatas ordenadas </h1>
+   <ol>
+
+
+       <li> cosa </li>
+       <li> cosa </li>
+       <li> cosa </li>
+       <li> cosa </li>
+       <li> cosa </li>
+   </ol>
+
+
+   <section>
+
+     <!-- imagen -->
+        <h1> insertar imagen </h1>
+  
+       <img src="https://concepto.de/wp-content/uploads/2018/08/monta%C3%B1a-clima-min-e1533762913759.jpg" >
+
+
+  </section>
+
+
+
+</section>
+   <a href=https://www.netflix.com/do/login?nextpage=https%3A%2F%2Fwww.netflix.com%2Fbrowse
+````><h1>netflix</h1> </a>
+</section>
+
+
+
+
+  </section>
+
+  <audio src=`notadevos.mp3``` controls></audio>
+</section>
+
+
+ </section>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Igz1nUWG0wg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+ 
+
+
+     </section>
+
+
+    <section>
+
+     <h1> Tabla </h1>
+
+     <table>
+         <thead>
+             <tr>
+                  <th> Nombre </th>
+                  <th> Apellido </th>
+                  <th> Edad </th>
+
+               </tr>
+            <thead>
+          <tbody>
+               <tr>
+                    <td> Flrinda </th>
+                    <td> Tira piedra </th>
+                    <td> 19 </th>
+                <tr> 
+               <tr>
+                    <td> Florencio </th>
+                    <td>  De la mata </th>
+                    <td> 20 </th>
+                 </tr>
+                <tr> 
+                    <td> Tirson </th>
+                    <td> El deicampo </th>
+                    <td> 25 </th>
+                </tr>
+            </tbody>   
+
+        </table>
+
+   </section>
+
+   <section>
+
+      <h1> Formulario </h1>
+
+     <form>
+
+         <label for=``nombre``> Nombre </label><label>
+         <input type=``text`` name=``nombre`` id=``nombre`` >
+         <label for=``apellido``> Apellido </label>
+         <input type=``text`` name=``apellido`` id=``apellido`` >
+
+         <input type=``checkbox`` name=``carro`` id=``toyota`` >
+         <label for=``toyota`` > toyota </label>
+         <input type=``checkbox`` name=``carro`` id=``Honda`` >
+         <label for=``Honda`` > Honda </label>
+
+
+         <select id=``sexo``>    
+         <option value=``Hombre``> Hombre </option>
+         <option value=``Mujer``> Mujer </option>
+
+         </select>
+
+          <input type````submi`` value=``Enviar``>
+
+          </form>
+
+     </section>
+
+
+
+</body>
+</html>
